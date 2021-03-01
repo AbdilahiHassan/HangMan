@@ -101,7 +101,7 @@ namespace HangMan
 
             Console.Write("Press enter if you want exit...");
             Console.ReadLine();
-            //char[] letters = words[random].ToCharArr
+      
 
             Console.Write("----------------------");
             Console.ReadLine();
